@@ -1,5 +1,4 @@
 # JavaAssignment-Q5
-# RIDE-SHARING CHARGES ESTIMATOR AND COMPARISON SYSTEM
 Java Assesment 
 
 ## About me
